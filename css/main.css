@@ -1,0 +1,120 @@
+body{
+	background-color: black;
+	background-repeat:no-repeat;
+    background-image:url(http://vignette2.wikia.nocookie.net/dragonball/images/7/70/FriezaForce.png);
+    background-size: cover;
+
+}
+
+h1 {
+	color:red;
+	font-size: 100px;
+
+}
+h2 {
+	color:red;
+}
+h3 {
+	color:yellow 
+	background-color: #AEAEAE;
+	margin: 0;
+}
+.one{
+	color:purple;
+	opacity: 1;
+
+}
+
+.wrapper {
+	margin: 0 auto;
+	width: 80%;
+}
+
+.header {
+	background-color:#cc3300
+ ;
+	padding: 20px;
+	border: 40px
+}
+.header .logo {
+	background-color: #ff9933;
+	display: inline-block;
+	font-size: 48px;
+	padding: 15px 15px;
+	text-transform: uppercase;
+}
+
+
+.navigation {
+	background-color:#0000cc;
+	display:inline;
+}
+.navigation ul {
+	margin: 10px;
+	padding-left:0px;
+	display:inline;
+	color:green;
+
+
+}
+.navigation li {
+	display: inline-block;
+	padding: 10px 30px;
+	border: 20px 20px;
+	content: 30px 30px;
+    
+}
+.navigation a {
+	color:#ff6600;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+.main h1 {
+	padding-left: 35px;
+	opacity: 1;
+}
+.main {
+	background-color: #009900;
+	float: left;
+	min-height: 600px;
+	width: 70%;
+	opacity: 0.5;
+	background-image: url(https://vignette2.wikia.nocookie.net/dragonball/images/6/63/Goku_normal_y_super_guerrero_by_bardocksonic-d5ujg0b.png/revision/latest?cb=20140327212424)
+    background-size:cover;
+}
+.main p {
+	padding: 5px 35px;
+}
+
+
+.sidebar {
+	background-color: #6600cc
+;
+	float: left;
+	min-height: 60px;
+	width: 30%;
+}
+.sidebar h2 {
+	padding-left: 20px;
+	color:green;
+}
+.sidebar ul{
+	font-size: 20px;
+	color:green;
+}
+.footer {
+	clear: left;
+	background-color: #514F50;
+	font-size: 14px;
+	padding: 9px 0;
+}
+.footer p {
+	margin: 0;
+	color: #FFFFFF;
+	padding-left: 35px;
+}
+.relative{
+	position:relative;
+	right: 50px;
+}	
